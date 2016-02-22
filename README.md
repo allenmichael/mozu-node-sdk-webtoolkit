@@ -6,7 +6,7 @@ You can also refer to how this project was put together by viewing the posts in 
   +  [Part One](https://www.mozu.com/blog/use-express-js-and-the-mozu-node-sdk-to-capture-and-work-with-mozu-events-part-one/)
   +  [Part Two](https://www.mozu.com/blog/use-express-js-and-the-mozu-node-sdk-to-capture-and-work-with-mozu-events-part-two/)
   +  [Part Three](https://www.mozu.com/blog/use-express-js-and-the-mozu-node-sdk-to-capture-and-work-with-mozu-events-part-three/)
-  +  [Part Four]
+  +  [Part Four](https://www.mozu.com/blog/use-express.js-and-the-mozu-node-sdk-part-four/)
 
 ### Express.js Setup
 You'll need Node.js and NPM to utilize this project.
